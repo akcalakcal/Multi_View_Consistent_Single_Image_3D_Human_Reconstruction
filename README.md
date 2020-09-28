@@ -1,1 +1,1 @@
-# Multi_View_Consistent_3D_Human_Reconstruction
+# Multi-View Consistency Loss for Improved Single-Image 3D Reconstruction of Clothed People
